@@ -106,9 +106,10 @@ height: 100%;
      float: right;
      background-color: rgb(32, 211, 211);
      width: 29.4%;
-     height: 119vh;
+     height: 118vh;
      border: 1vh solid black;
      border-radius: 6vh;
+     margin-bottom: 0.5%;
 }
 .h1{
      position: absolute;
