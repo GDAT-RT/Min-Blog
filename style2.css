@@ -1,0 +1,33 @@
+.body{
+    background-image:url(gigigi.gif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 1311px 660px;
+}
+.box {
+    position: absolute;
+     width: 200px;
+     height: 70px;
+     background-color: aqua;
+     padding: 20px;
+     border-radius: 25px;
+     border: 5px solid black;
+  }
+  .Link{
+     position: absolute;
+     width: 242px;
+     height: 115px;
+     top: 0px;
+     left: 0px;
+     background-color: white;
+     opacity: 0;
+     filter: alpha(opacity=1);
+  }
+  .h2{
+    position: absolute;
+    color: black;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 15px;
+    margin-top: 5px;
+}
