@@ -1,33 +1,36 @@
-.body{
-    background-image:url(gigigi.gif);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: 1311px 660px;
+.body
+{
+background-image:url(gigigi.gif);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100%;
+height: 100%;
 }
 .box {
+   position: absolute;
+    width: 15%;
+    height: 10%;
+    background-color: rgb(32, 211, 211);
+    padding: 1.5%;
+    border-radius: 50% 2vh 2vh 50%;
+    border: 1vh solid black;
+ }
+ .Link{
     position: absolute;
-     width: 200px;
-     height: 70px;
-     background-color: aqua;
-     padding: 20px;
-     border-radius: 25px;
-     border: 5px solid black;
-  }
-  .Link{
-     position: absolute;
-     width: 242px;
-     height: 115px;
-     top: 0px;
-     left: 0px;
-     background-color: white;
-     opacity: 0;
-     filter: alpha(opacity=1);
-  }
-  .h2{
+    width: 100%;
+    height: 100%;
+    top: 0%;
+    left: 0%;
+    background-color: white;
+    opacity: 0;
+    filter: alpha(opacity=1);
+    border-radius: 50% 2vh 2vh 50% ;
+ }
+ .h2{
     position: absolute;
     color: black;
-    font-size: 50px;
+    font-size: 3em;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    margin-left: 15px;
-    margin-top: 5px;
+    margin-left: 13%;
+    margin-top: 0.9%;
 }
