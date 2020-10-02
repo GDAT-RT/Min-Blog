@@ -40,6 +40,16 @@
    border: 1vh solid black;
    border-radius: 2vh;
    width: 77.7%;
-   height: 90%;
+   height: 50%;
    margin-left: 20%;
+}
+.div1{
+   position: absolute;
+   background-color: rgb(32, 211, 211);
+   border: 1vh solid black;
+   border-radius: 2vh;
+   width: 77.7%;
+   height: 50%;
+   margin-left: 20%;
+   margin-top: 25%;
 }
