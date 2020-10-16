@@ -78,3 +78,13 @@
    width: 33%;
    margin-left:66.7%;
 }
+.div3{
+   position: absolute;
+   background-color: rgb(32, 211, 211);
+   border: 1vh solid black;
+   border-radius: 2vh;
+   width: 77.7%;
+   height: 60%;
+   margin-left: 20%;
+   margin-top: 80%;
+}
