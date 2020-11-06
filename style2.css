@@ -113,3 +113,19 @@
    width: 33%;
    margin-left:30%;
 }
+.div5{
+   position: absolute;
+   background-color: rgb(32, 211, 211);
+   border: 1vh solid black;
+   border-radius: 2vh;
+   width: 77.7%;
+   height: 60%;
+   margin-left: 20%;
+   margin-top: 139.9%;
+}
+.img7{
+   position: absolute;
+   width: 37.5%;
+   margin-left:30%;
+   margin-top: -2%;
+}
