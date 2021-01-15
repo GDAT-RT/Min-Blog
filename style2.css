@@ -173,7 +173,7 @@
 }
 .img10{
    position: absolute;
-   width: 64%;
+   width: 54%;
    margin-left:30%;
    margin-top: -2%
 }
@@ -189,7 +189,23 @@
 }
 .img11{
    position: absolute;
-   width: 64%;
+   width: 60%;
+   margin-left:30%;
+   margin-top: -1%
+}
+.div10{
+   position: absolute;
+   background-color: rgb(32, 211, 211);
+   border: 1vh solid black;
+   border-radius: 2vh;
+   width: 77.7%;
+   height: 80%;
+   margin-left: 20%;
+   margin-top: 249.6%;
+}
+.img11{
+   position: absolute;
+   width: 34%;
    margin-left:30%;
    margin-top: -2%
 }
